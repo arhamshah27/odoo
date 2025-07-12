@@ -1,0 +1,3 @@
+create a .env file in source  and add this 
+NEXT_PUBLIC_SUPABASE_URL=https://wpihxdrpvhkwgpgspqhk.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndwaWh4ZHJwdmhrd2dwZ3NwcWhrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMDU2MDEsImV4cCI6MjA2NjY4MTYwMX0.os4bg_7x_-8ln1iX74G1si-odYeu6KinAtlqofdCQCA
